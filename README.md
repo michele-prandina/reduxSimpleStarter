@@ -1,5 +1,8 @@
 # ReduxSimpleStarter
 
+This is a fork of the repo of https://github.com/StephenGrider
+Everything in this README is referred to him.
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
